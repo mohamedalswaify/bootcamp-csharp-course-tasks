@@ -43,7 +43,16 @@ This project contains three beginner-friendly tasks written in C#. These tasks f
 ## 👨‍💻 Created by
 **Mohamed Alswaify**
 
----
+👤 **Author**  
+👨‍🏫 Mohamed Alswaify  
+📱 Phone: +966-564842804  
+🌐 Website: [mohamed-alswaify.com](https://mohamed-alswaify.com)  
+🔗 GitHub: [github.com/mohamedalswaify](https://github.com/mohamedalswaify)  
+💼 LinkedIn: [linkedin.com/in/mohamedalswaify](https://linkedin.com/in/mohamedalswaify)  
+💬 WhatsApp: [Chat on WhatsApp](https://wa.me/966564842804)  
+📘 Facebook: [facebook.com/Mohamed-Alswaify](https://facebook.com/Mohamed-Alswaify)
+
+-----
 
 ## 💡 Note
 These tasks are great for beginners to practice data types, conversions, and arithmetic operations in C#.
