@@ -1,3 +1,6 @@
+![C# Switch Case Cover](csharp-switch-case-cover.png)
+
+
 # C# Practice Tasks using Switch-Case
 
 This project demonstrates how to use the `switch-case` statement in C# for basic user input scenarios.
