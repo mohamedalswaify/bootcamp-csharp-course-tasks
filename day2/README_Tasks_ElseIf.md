@@ -1,3 +1,5 @@
+![C# Bootcamp Cover](C# RACTICE TASKS.png)
+
 # C# Practice Tasks with If/Else Statements
 
 This project demonstrates how to use `if/else` conditions in basic C# tasks.
