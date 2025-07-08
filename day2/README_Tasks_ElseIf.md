@@ -1,4 +1,4 @@
-![C# Bootcamp Cover](C#_RACTICE_TASKS.png)
+![C# Bootcamp Cover](CSharp_RACTICE_TASKS.png)
 
 # C# Practice Tasks with If/Else Statements
 
