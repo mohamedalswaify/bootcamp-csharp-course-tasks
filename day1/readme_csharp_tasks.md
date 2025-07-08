@@ -1,3 +1,10 @@
+![C# Basics Cover](csharp_basics_cover.png)
+
+# C# Course - Error Types Examples  
+### Created by Mohamed Alswaify  
+This file demonstrates: **Type Error**, **Syntax Error**, **Runtime Error**, and **Logic Error**
+
+---
 # C# Practice Tasks - Beginner Level
 
 This project contains three beginner-friendly tasks written in C#. These tasks focus on using:
